@@ -1,0 +1,57 @@
+# drojas33GithubProfile
+Hi there! I'm Daniel, a Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizing processes to deliver real results.
+# Hi there 👋 I'm Daniel Rojas
+
+🎯 Project Coordinator | IT | Data Analysis | Continuous Improvement  
+
+---
+
+## 🚀 About Me
+I am a Project Coordinator with experience in IT environments, stakeholder management, and process improvement.  
+I focus on delivering results through organization, data-driven decisions, and continuous improvement methodologies.
+
+✔ Experience coordinating projects and teams  
+✔ Strong skills in Excel, Power BI, and reporting  
+✔ Knowledge in Lean Six Sigma and quality processes  
+✔ Passion for optimizing workflows and solving problems  
+
+---
+
+## 🛠️ Skills
+
+- 📊 Data Analysis: Excel, Power BI  
+- 📁 Project Management: Planning, SLA tracking, coordination  
+- ⚙️ Tools: SAP, CRM, AVAYA  
+- 📈 Methodologies: Lean Six Sigma, Continuous Improvement  
+- 🌎 Languages: Spanish (Native), English (Intermediate)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 IT Project Coordination Dashboard
+- Created a dashboard to track SLA compliance and project performance  
+- Tools: Excel / Power BI  
+- Result: Improved visibility and decision-making  
+
+---
+
+### 🔹 Process Improvement Initiative
+- Applied Lean Six Sigma concepts to optimize workflows  
+- Reduced inefficiencies and improved service delivery  
+
+---
+
+### 🔹 Personal Portfolio Website
+- Built using Astro and deployed on GitHub Pages  
+- Showcases projects and professional experience  
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: (add your link here)
+- 📧 Email: (optional)
+
+---
+
+⭐ Always learning, improving, and building
