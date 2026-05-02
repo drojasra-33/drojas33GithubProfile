@@ -1,57 +1,94 @@
 # drojas-33
 # Hi there 👋 I'm Daniel Rojas
 
-A Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizing processes to deliver real results.
+🎯 Project Coordinator | PMO | Service Delivery | Data Analysis  
 
-🎯 Project Coordinator | IT | Data Analysis | Continuous Improvement  
 
+A Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizingprocesses to deliver real results. 
 ---
 
 ## 🚀 About Me
-I am a Project Coordinator with experience in IT environments, stakeholder management, and process improvement.  
-I focus on delivering results through organization, data-driven decisions, and continuous improvement methodologies.
+Project and Operations professional with experience coordinating high-volume, cross-functional initiatives in multinational environments such as HP Inc. and Hewlett Packard Enterprise (HPE).
 
-✔ Experience coordinating projects and teams  
-✔ Strong skills in Excel, Power BI, and reporting  
-✔ Knowledge in Lean Six Sigma and quality processes  
-✔ Passion for optimizing workflows and solving problems  
+I specialize in service delivery, SLA management, and project execution using Agile and Waterfall methodologies, with a strong focus on data-driven decision-making and continuous improvement.
 
 ---
 
-## 🛠️ Skills
+## 💼 Professional Experience Highlights
 
-- 📊 Data Analysis: Excel, Power BI  
-- 📁 Project Management: Planning, SLA tracking, coordination  
-- ⚙️ Tools: SAP, CRM, AVAYA,SQL, Azure 
-- 📈 Methodologies: Lean Six Sigma, Agile, Whaterfall, Continuous Improvement  
-- 🌎 Languages: Spanish (Native), English (Intermediate)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 IT Project Coordination Dashboard
-- Created a dashboard to track SLA compliance and project performance  
-- Tools: Excel / Power BI  
-- Result: Improved visibility and decision-making  
+✔ 300+ infrastructure projects coordinated across North America  
+✔ 95% SLA compliance achieved across enterprise customers  
+✔ Experience working with multinational teams and stakeholders  
+✔ Strong focus on operational efficiency and process optimization  
 
 ---
 
-### 🔹 Process Improvement Initiative
-- Applied Lean Six Sigma concepts to optimize workflows  
-- Reduced inefficiencies and improved service delivery  
+## 🛠️ Core Skills
+
+- Project Coordination & PMO Support  
+- Stakeholder Management  
+- SLA & KPI Tracking  
+- Risk & Issue Management  
+- Agile & Waterfall Methodologies  
+- Data Analysis (Excel, Power BI)  
+- Process Improvement (Lean)  
 
 ---
 
-### 🔹 Personal Portfolio Website
-- Built using Astro and deployed on GitHub Pages  
-- Showcases projects and professional experience  
+## 📊 Featured Projects
+
+### 🔹 Service Delivery Optimization & SLA Compliance
+**Company:** HP Inc.  
+- Achieved 95% SLA compliance across enterprise portfolio  
+- Developed Power BI dashboards for real-time tracking  
+- Improved response time and operational visibility  
 
 ---
 
-## 📫 Contact Me
+### 🔹 Infrastructure Deployment Project Coordination
+**Company:** Hewlett Packard Enterprise (HPE)  
+- Coordinated 300+ infrastructure deployment projects  
+- Ensured consistent on-time delivery  
+- Improved cross-team communication and tracking  
+
+---
+
+### 🔹 Reporting Automation & Data Analysis
+- Automated reporting processes using Excel and Power BI  
+- Improved data accuracy and decision-making  
+- Standardized reporting across teams  
+
+---
+
+## 🧰 Tools & Technologies
+
+- Excel (Advanced)  
+- Power BI / Tableau  
+- SAP / Salesforce / Workday  
+- Teams / Slack / Zoom  
+
+---
+
+## 🎓 Certifications
+
+- Google Project Management Certificate (2025)  
+- Bachelor's in Project Management (In Progress)  
+- Cisco CCNA (In Progress)  
+- SQL, Azure & Data Analysis  
+- Python (Basic)  
+
+---
+
+## 📫 Contact
+
+- 📧 drojasra@proton.me  
+- 🌎 Costa Rica
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-rojas-rojas-074802189/
-- 📧 Email: drojasra@proton.me
+
+---
+
+⭐ Always improving processes, delivering results, and building better solutions
+
 
 ---
 
