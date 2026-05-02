@@ -90,6 +90,4 @@ I specialize in service delivery, SLA management, and project execution using Ag
 ⭐ Always improving processes, delivering results, and building better solutions
 
 
----
 
-⭐ Always learning, improving, and building
