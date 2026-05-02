@@ -1,6 +1,7 @@
 # drojas-33
-Hi there! I'm Daniel, a Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizing processes to deliver real results.
 # Hi there 👋 I'm Daniel Rojas
+
+A Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizing processes to deliver real results.
 
 🎯 Project Coordinator | IT | Data Analysis | Continuous Improvement  
 
@@ -21,8 +22,8 @@ I focus on delivering results through organization, data-driven decisions, and c
 
 - 📊 Data Analysis: Excel, Power BI  
 - 📁 Project Management: Planning, SLA tracking, coordination  
-- ⚙️ Tools: SAP, CRM, AVAYA  
-- 📈 Methodologies: Lean Six Sigma, Continuous Improvement  
+- ⚙️ Tools: SAP, CRM, AVAYA,SQL, Azure 
+- 📈 Methodologies: Lean Six Sigma, Agile, Whaterfall, Continuous Improvement  
 - 🌎 Languages: Spanish (Native), English (Intermediate)
 
 ---
@@ -49,8 +50,8 @@ I focus on delivering results through organization, data-driven decisions, and c
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: (add your link here)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-rojas-rojas-074802189/
+- 📧 Email: drojasra@proton.me
 
 ---
 
