@@ -1,4 +1,4 @@
-# drojas33GithubProfile
+# drojas-33
 Hi there! I'm Daniel, a Project Coordinator passionate about technology, data analysis, and continuous improvement. I enjoy building projects and optimizing processes to deliver real results.
 # Hi there 👋 I'm Daniel Rojas
 
